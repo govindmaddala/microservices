@@ -1,0 +1,24 @@
+{
+  "name": "microservices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/govindmaddala/microservices.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/govindmaddala/microservices/issues"
+  },
+  "homepage": "https://github.com/govindmaddala/microservices#readme",
+  "dependencies": {
+    "vite": "^5.3.5"
+  }
+}
